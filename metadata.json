@@ -1,0 +1,12 @@
+{
+  "name": "Smart Farm Intelligence Assistant",
+  "description": "AI/ML Farm Decision-Support System for Indian Farmers - Field boundary mapping, satellite/soil/weather analysis, crop yield & disease risk prediction, and actionable local-language guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
